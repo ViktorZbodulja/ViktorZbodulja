@@ -6,18 +6,18 @@
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" />
 
 
-- 🔭 I’m currently working on **Color pallete generator app**
-
-- 🌱 I’m currently learning **ReactJS, Next**
-
+- 🔭 I’m currently working on **Color pallete generator app** 
+<br/><br/>
+- 🌱 I’m currently learning **ReactJS, Next** 
+<br/><br/>
 - 👨‍💻 All of my projects are available at [github](github)
-
+<br/><br/>
 - 💬 Ask me about **React, Framer-motion, Redux**
-
+<br/><br/>
 - 📫 How to reach me **viktorzbodulja@gmail.com**
-
+<br/><br/>
 - ⚡ Fun fact **I first learned React then JavaScript**
- 
+<br/><br/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
