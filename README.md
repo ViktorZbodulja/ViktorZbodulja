@@ -1,4 +1,4 @@
-![MasterHead](https://www.x-apps.com.br/static/729b55a3020462a936fcafe5ded7614e/a4874ac53d4f48c5858679ec2e2849a1.jpg)
+![MasterHead](https://www.50a.fr/img/upload/react.png)
 <!--https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg--!>
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3>
