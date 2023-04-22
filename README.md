@@ -7,15 +7,14 @@
 
 - 🔭 I’m currently working on **Color pallete generator app**<br /><br />
 
-- 🌱 I’m currently learning **ReactJS, Next**<br /><br />
+- 🌱 I’m currently learning **ReactJS, Next** <br /><br />
 
-- 👨‍💻 All of my projects are available at [github](github)<br /><br />
+- 👨‍💻 All of my projects are available at [github](github) <br /><br />
 
-- 💬 Ask me about **React, Framer-motion, Redux**<br /><br />
+- 💬 Ask me about **React, Framer-motion, Redux** <br /><br />
 
-- 📫 How to reach me **viktorzbodulja@gmail.com**<br /><br />
-
-- ⚡ Fun fact **I first learned React then JavaScript**<br /><br />
+- 📫 How to reach me **viktorzbodulja@gmail.com** 
+- ⚡ Fun fact **I first learned React then JavaScript** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
