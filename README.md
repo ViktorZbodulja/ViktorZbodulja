@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/Eww0SEMWgAQhFYF.jpg:large)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--qc_GPsrm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y932df8rdy0bwn1jzdrq.jpg)
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3><br />
 
