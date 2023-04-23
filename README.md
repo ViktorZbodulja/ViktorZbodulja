@@ -1,23 +1,17 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--8wFKYhuf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3k3bha5ev11g2zyzca1w.jpg)
-<!--https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg--!>
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">A passionate frontend developer from Croatia</h3>
-<br/>
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" />
+<h3 align="center">A passionate frontend developer from Croatia</h3><br />
 
+- 🔭 I’m currently working on **Color pallete generator app**
 
-- 🔭 I’m currently working on **Color pallete generator app** 
-<br/><br/>
-- 🌱 I’m currently learning **ReactJS, Next** 
-<br/><br/>
+- 🌱 I’m currently learning **ReactJS, Next**
+
 - 👨‍💻 All of my projects are available at [github](github)
-<br/><br/>
+
 - 💬 Ask me about **React, Framer-motion, Redux**
-<br/><br/>
+
 - 📫 How to reach me **viktorzbodulja@gmail.com**
-<br/><br/>
+
 - ⚡ Fun fact **I first learned React then JavaScript**
-<br/><br/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
