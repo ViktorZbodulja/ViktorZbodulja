@@ -1,3 +1,4 @@
+[![MasterHead](https://pbs.twimg.com/media/Eqp_YlKXcAINpUH.jpg)]
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3><br />
 
