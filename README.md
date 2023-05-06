@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Next**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ViktorZbodulja" target="_blank">github</a>
 
 - 💬 Ask me about **React, Framer-motion, Redux**
 
