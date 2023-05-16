@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Color pallete generator app**
 
-- 🌱 I’m currently learning **ReactJS, Next**
+- 🌱 I’m currently learning **React, NextJS**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ViktorZbodulja" target="_blank">github</a>
 
