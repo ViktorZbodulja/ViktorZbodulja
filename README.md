@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3><br />
 
-- 🔭 I’m currently working on **Fashion Flare presentation website**
+- 🔭 I’m currently working on **Portfolio page**
 
 - 🌱 I’m currently learning **React, NextJS**
 
