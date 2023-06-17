@@ -1,4 +1,4 @@
-![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyf1TS-7a9SFDUkUnaEn2CwTzS_JnTNuexC-jERE3JLiPUAYYlmuUyEGfSyTNPnOn8uAs&usqp=CAU](https://tep.pucmm.edu.do/PublishingImages/Educacion-continuada/Intro-Programacion-banner-2.jpg))
+
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3><br />
 
