@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Portfolio page**
 
-- 🌱 I’m currently learning **React, NextJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ViktorZbodulja" target="_blank">github</a>
 
